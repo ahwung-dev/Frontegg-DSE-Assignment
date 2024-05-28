@@ -1,2 +1,0 @@
-# Frontegg-DSE-Assignment
- 
