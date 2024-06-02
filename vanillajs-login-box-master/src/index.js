@@ -8,8 +8,8 @@ document.getElementsByTagName('head')[0].appendChild(style);
 
 const app = initialize({
   contextOptions: {
-    baseUrl: "https://YOUR_DOMAIN.frontegg.com", //set your Frontegg environment domain and client ID here
-    clientId: 'YOUR_FRONTEGG_CLIENT_ID'
+    baseUrl: "https://app-exe5lt2aqec6.frontegg.com", //set your Frontegg environment domain and client ID here
+    clientId: 'cf73797e-148d-49d7-a661-c122a3d44dc0'
   },
   hostedLoginBox: true //if you are working in embedded mode remove this one
 })
